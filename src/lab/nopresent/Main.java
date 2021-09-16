@@ -19,8 +19,8 @@ public class Main {
         System.out.println("double -> /: "+double_s_Result);
 
         // long
-        long l1 = 2_000_000;
-        long l2 = 5_000;
+        long l1 = 2_000_000L;
+        long l2 = 5_000L;
         System.out.println("       -> -: "+(l1-l2));
 
     }
